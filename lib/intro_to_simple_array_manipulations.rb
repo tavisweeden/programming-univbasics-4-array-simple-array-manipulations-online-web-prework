@@ -15,7 +15,6 @@ end
 using_unshift("Staten Island")
 
 def using_pop(continents) 
-  continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
   continents.pop
 
 end  
